@@ -18,7 +18,7 @@ function Profile() {
     profileData: {
       profileUsername: "...",
       profileAvatar: "https://gravatar.com/avatar/placeholder?s=128",
-      isFollowing: false,
+      isFollowing: true,
       counts: { postCount: "", followerCount: "", followingCount: "" }
     }
   })
