@@ -5,9 +5,17 @@ function About() {
   return (
     <Page title="About Us">
       <h2>About Us!!!!!!</h2>
-      <p className="lead text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis dolorum labore quisquam vel id dicta fuga! Ducimus, quo. Dolore commodi aliquid error veritatis consequuntur, excepturi cumque fuga eum incidunt doloremque?</p>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At qui enim rem totam voluptatum. Aut saepe temporibus, facilis ex a iste expedita minima dolorum dicta doloribus libero aliquid, quae maxime? Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat suscipit beatae eum, est soluta ducimus ratione et impedit sapiente, nihil, atque dignissimos adipisci? Totam atque officia quis voluptates sed veniam?</p>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita voluptates quisquam possimus tenetur, dicta enim rerum quis, quaerat id nobis provident quo dolorum sapiente temporibus facere non repellendus consequatur cupiditate!</p>
+      <p className="lead text-muted">Full Stack Web Developer
+Paris (75) (75) 75005
+hkchakravarty@gmail.com
++33 7 69 70 98 44
+Doctorate, 14 years of experience in IT and its applications (Chemistry), 4 years of experience in Software / Web Development, Bioinformatics, Chemoinformatics, international profile (India, Germany, USA, France).
+
+Expertise in Software Development, Web Development, Modeling and Computing Techniques, and Technologies, Chemistry and its Applications (Combustion).
+
+Here is a link to a web application I built recently (Technology used: React, Javascript, Node, MongoDB, Express, HTML, CSS):
+
+https://harishsocialmediaapp.netlify.app</p>
     </Page>
   )
 }
