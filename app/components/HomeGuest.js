@@ -194,8 +194,8 @@ function HomeGuest() {
     <Page title="Welcome!" wide={true}>
       <div className="row align-items-center">
         <div className="col-lg-7 py-3 py-md-5">
-          <h1 className="display-3">Remember Writing?</h1>
-          <p className="lead text-muted">Are you sick of short tweets and impersonal &ldquo;shared&rdquo; posts that are reminiscent of the late 90&rsquo;s email forwards? We believe getting back to actually writing is the key to enjoying the internet again.</p>
+          <h1 className="display-3">Social Media App</h1>
+          <p className="lead text-muted">Social media platforms allow users to have conversations, share information and create web content. There are many forms of social media, including blogs, micro-blogs, wikis, social networking sites, photo-sharing sites, instant messaging, video-sharing sites, podcasts, widgets, virtual worlds, and more.</p>
         </div>
         <div className="col-lg-5 pl-lg-5 pb-3 py-lg-5">
           <form onSubmit={handleSubmit}>
