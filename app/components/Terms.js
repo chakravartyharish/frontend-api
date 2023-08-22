@@ -5,12 +5,21 @@ function Terms() {
   return (
     <Page title="Terms and Conditions">
       <h2>Our Terms &amp; Conditions</h2>
-      <p className="lead text-muted">Python developer and Full Stack Web Developer
-Sorbonne University - Paris (75)
-De Janvier 2019 à aujourd'hui
-Currently working on the implementation of combustion model reduction techniques (such as genetic algorithms, and computation singular perturbation methods) in Python Programming language at French Aviation Company (ONERA) and Sorbonne University.
+      <p className="lead text-muted"> I am a senior software Developer with more than five years of
+experience in full-stack web development. I use cutting-edge
+technologies such as Python, React, Node.js, REST API, MySQL,
+MongoDB, Java, Java EE, Spring Boot, GraphQL, and Material UI to
+create Full Stack Web Applications that support the scientific and
+engineering projects of ONERA and its partners.
+In addition to my web development skills, I have a strong
+background in computational fluid dynamics, combustion modeling,
+and chemical kinetics, which I apply to implement and optimize
+numerical methods and algorithms in Python. I have also published
+several papers in peer-reviewed journals and presented my
+research at international conferences. I am passionate about
+solving complex problems and creating innovative solutions that
+advance the field of aerospace research.
 
-Front-end Web Developer (Technologies used: HTML5, CSS3, Javascript, React, Agile, SCRUM, SaaS, Bootstrap, REST API, Python 3, Django, PyQt5 GitHub, WordPress, PHP, JQuery, GraphQL, SQL, NoSQL, LaTeX, bash). https://github.com/hkchakravarty(access possible only upon request).
 
 </p>
     </Page>
